@@ -16,4 +16,4 @@ This project is created and maintained by [Rajiv Pant](https://rajiv.com). Rajiv
 - [GitHub Profile](https://github.com/rajivpant)
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
